@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//見えない網戸
 int main(){
 return 0;
 }
